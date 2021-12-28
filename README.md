@@ -1,6 +1,8 @@
 # Django Web应用开发实战 本书源码
 # Django3 Web应用开发实战 本书源码
 # Overview
+Place stars⭐ before you leave（记得点个星⭐哦）
+<br>
 Learn Python Django for book--><a href="https://item.jd.com/12604813.html">Django Web应用开发实战</a>
 <br>
 The code is updated to Django 3.0
